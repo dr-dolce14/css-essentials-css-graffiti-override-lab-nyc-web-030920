@@ -16,7 +16,7 @@
   display:none;
 }
 
-#wall div.parent div:{
+#wall div.parent div:last-child {
   display: none;
 }
 
