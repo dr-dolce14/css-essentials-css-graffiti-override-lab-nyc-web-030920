@@ -15,3 +15,7 @@
 #wall .parent > div {
   display:none;
 }
+
+#wall * {
+  display: none;
+}
